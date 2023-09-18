@@ -47,7 +47,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="TextUtils"
+          title="Text Converter"
           aboutText="About Us"
           mode={mode}
           toggleMode={toggleMode}
